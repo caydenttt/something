@@ -13,4 +13,6 @@ This program will help you sleep better
 
 1. Watch Youtube until you are too tired and then you pass out
 
+## Worse instructions
 
+1. Ingest 20 grams of trinitrotoluene and go to sleep for a very long time
